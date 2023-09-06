@@ -9,6 +9,7 @@ public class git {
         System.out.println("test第个版本");
         System.out.println("test push");
         System.out.println("test pull");
+        System.out.println("test pull3");
     }
 
 }
