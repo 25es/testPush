@@ -12,8 +12,9 @@ public class git {
         System.out.println("test pull3");
         System.out.println("test pull2");
         System.out.println("gitee pull");
-         System.out.println("gitee pull2");
-    
+        System.out.println("gitee pull2");
+        System.out.println("测试合并");
+
     }
 
 }
