@@ -17,11 +17,14 @@ public class git {
         System.out.println("测试合并1");
         System.out.println("新分支");
         System.out.println("测试冲突2");
+
+
         System.out.println("gitee pull2");
         System.out.println("测试合并2");
         System.out.println("测试切换版本");
         System.out.println("测试有冲突的合并");
         System.out.println("测试有冲突的合并2");
+        System.out.println("测试有冲突的合并3");
 
     }
 
